@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>CloudsAndTags - Command 1</Text>
+    <Description>Some description for CloudsAndTags</Description>
+    <Assembly>CloudsAndTags.dll</Assembly>
+    <FullClassName>CloudsAndTags.Command1</FullClassName>
+    <ClientId>d72195e0-dcf0-469a-8f30-9b484d1f718d</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>CloudsAndTags - Command 2</Text>
+    <Description>Some description for CloudsAndTags</Description>
+    <Assembly>CloudsAndTags.dll</Assembly>
+    <FullClassName>CloudsAndTags.Command2</FullClassName>
+    <ClientId>7eb1be0a-c848-44fb-8847-bb2c7a71166b</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>CloudsAndTags</Name>
+    <Assembly>CloudsAndTags.dll</Assembly>
+    <FullClassName>CloudsAndTags.App</FullClassName>
+    <ClientId>31aeeef0-1905-4733-a239-acfe1486476a</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
